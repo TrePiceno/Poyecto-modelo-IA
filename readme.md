@@ -5,14 +5,14 @@
 # IA: Generacion de Prompts- Carreras intensivas
 ## Primera preentrega 
 ### Idea Alquímica: Tejiendo el futuro con Prompt Enginnering
-___
 
-#### Generación de contenido para Marketing Digital
+### Generación de contenido para Marketing Digital
 | Problema a abordar | Propuesta de solución | Viabilidad técnica |
 |------------------|:---------------------------:|--------------------:|
 |Las empresas necesitan contenido relevante y atractivo para sus campañas de marketing, lo cual puede ser un proceso lento y costoso.| Crear una herramienta que genere contenido de marketing (posts de blog, descripciones de productos, anuncios) utilizando prompts de IA. La herramienta podría ajustarse a diferentes tonos y estilos según las necesidades del cliente. | Utilizar ChatGPT para generar textos a partir de prompts definidos por el usuario. Implementar la solución en una plataforma web, con una interfaz que permita personalizar los prompts y visualizar los resultados en tiempo real. |
 ___
-## Segunda preentrega 
+## Segunda preentrega
+### Fast Prompting en acción: Desentrañando la magia
 
 ### Objetivo
 Desarrollar una herramienta con inteligencia artifical que pueda ayudar a los equipos de marketing a optimizar sus tiempos al planear campañas de clientes con empresas que tengan diferentes actividades económicas.
