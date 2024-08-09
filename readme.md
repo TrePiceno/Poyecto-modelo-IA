@@ -24,7 +24,7 @@ Tomado como referencia lo visto en las clases, se puso en practica lo aprendido 
 ___
  ### Herramientas y tecnologías
  
-- Minoconda3
+- Miniconda3
 - Python 3.10.14
 - OpenIA 0.28.0
 - Jupyter 1.0.0
